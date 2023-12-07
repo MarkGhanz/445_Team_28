@@ -1,0 +1,19 @@
+{
+    "name": "TinyHead",
+    "keywords": "radiohead, tinyhead, 433mhz",
+    "description": "Arduino library for ATtiny85 communicating with 433Mhz transmitter, RadioHead based.",
+    "authors":
+    {
+        "name": "Thijs van Ulden",
+        "email": "thijsvanulden@gmail.com",
+        "url": "https://www.linkedin.com/in/thijsvanulden/",
+        "maintainer": true
+    },
+    "repository":
+    {
+        "type": "git",
+        "url": "https://gitlab.com/thijsvanulden/TinyHead.git"
+    },
+    "frameworks": "arduino",
+    "platforms": "atmelavr"
+}
